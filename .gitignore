@@ -1,0 +1,12 @@
+﻿# 外部二进制安装包 / 驱动分发包（体积大，属外部依赖，不入库）
+54.0.2840.99_chrome_installer64.exe
+*.zip
+
+# Python 编译缓存
+*.pyc
+*.pyo
+__pycache__/
+
+# 运行期生成的代理池文件
+proxys.txt
+outproxys.txt
